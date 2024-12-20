@@ -1,3 +1,3 @@
 # International Meeting of Gamers
 
-👉 https://wagle-studio.github.io/IMG/
+👉 https://img-2025.netlify.app/
