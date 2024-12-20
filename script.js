@@ -81,7 +81,7 @@ const projects = [
     name: "Iliès",
     promo: "DWWM 8",
     website: "https://ioulahal.gitlab.io/webgame-beatboss",
-    image: "",
+    image: "images/dwwm8/iliès BACK.png",
   },
   {
     name: "Vivian",
