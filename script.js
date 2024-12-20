@@ -2,8 +2,8 @@ const projects = [
   {
     name: "Yanis",
     promo: "DWWM 8",
-    website: "",
-    image: "",
+    website: "https://yanis_uchiha.gitlab.io/rpg_game/",
+    image: "images/dwwm8/yanis 676566a0ea509126376862.png",
   },
   {
     name: "Kadem",
