@@ -26,8 +26,8 @@ const projects = [
   {
     name: "Saadia",
     promo: "DWWM 8",
-    website: "",
-    image: '',
+    website: "https://jeux-video-16f82c.gitlab.io/",
+    image: 'images/saadia aventure du pendu.png',
   },
   {
     name: "Steven",
@@ -62,8 +62,8 @@ const projects = [
   {
     name: "Mehdi",
     promo: "DWWM 8",
-    website: "",
-    image: "",
+    website: "https://flappy-dogs-38721e.gitlab.io/",
+    image: "images/mehdi - Flappy Dog.png",
   },
   {
     name: "Hervé",
